@@ -16,3 +16,13 @@ telephony.lteOnCdmaDevice=1
 
 # Wi-Fi Display
 persist.debug.wfd.enable=1
+
+# Mistos
+ro.mist.display=1080 x 2340, 144 hz
+ro.mist.battery=7000mah
+ro.mist.soc=Snapdragon® 6s Gen 3
+ro.mist.camera=50MP + 2MP
+ro.mist.front=8MP
+ro.mist.platform=SM6375-AC
+ro.mist.screen=6.9' IPS LCD
+ro.mist.device.name=Xiaomi Redmi 15 5G

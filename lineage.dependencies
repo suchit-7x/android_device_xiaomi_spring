@@ -1,0 +1,68 @@
+[
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_vendor_xiaomi_spring",
+    "target_path": "vendor/xiaomi/spring",
+    "branch"     : "lineage-24.0"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_device_xiaomi_spring-kernel",
+    "target_path": "device/xiaomi/spring-kernel",
+    "branch"     : "lineage-24.0"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch"     : "lineage-24.0"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_hardware_qcom-caf_common",
+    "target_path": "hardware/qcom/-caf/common",
+    "branch"     : "lineage-24.0"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_vendor_qcom_opensource_agm",
+    "target_path": "hardware/qcom-caf/sm6375-6.1/audio/agm",
+    "branch"     : "lineage-23.2-caf-sm6375-6.1"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_vendor_qcom_opensource_arpal-lx",
+    "target_path": "hardware/qcom-caf/sm6375-6.1/audio/pal",
+    "branch"     : "lineage-23.2-caf-sm6375-6.1"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_hardware_qcom_audio-ar",
+    "target_path": "hardware/qcom-caf/sm6375-6.1/audio/primary-hal",
+    "branch"     : "lineage-23.2-caf-sm6375-6.1"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_vendor_qcom_opensource_audioreach-graphservices",
+    "target_path": "hardware/qcom-caf/sm6375-6.1/audio/graphservices",
+    "branch"     : "lineage-23.2-caf-sm6375-6.1"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_hardware_qcom_display",
+    "target_path": "hardware/qcom-caf/sm6375-6.1/display",
+    "branch"     : "lineage-23.2-caf-sm6375-6.1"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_vendor_qcom_opensource_dataipa",
+    "target_path": "hardware/qcom-caf/sm6375-6.1/dataipa",
+    "branch"     : "lineage-23.2-caf-sm6375-6.1"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "spring4ever/android_vendor_qcom_opensource_data-ipa-cfg-mgr",
+    "target_path": "hardware/qcom-caf/sm6375-6.1/data-ipa-cfg-mgr",
+    "branch"     : "lineage-23.2-caf-sm6375-6.1"
+  }
+]
